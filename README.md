@@ -1,8 +1,8 @@
 # NASA Space App 
 This is an app that allows you to type in a date using the YYYY-MM-DD format, and the background changes to NASA's photo of the day. 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+<!--**Link to project:** http://recruiters-love-seeing-live-demos.com/-->
 
-![alt tag](http://placecorgi.com/1200/650)
+<img src="img/Screen Shot 2022-09-27 at 6.51.27 PM.png">
 
 ## How It's Made:
 
@@ -17,7 +17,7 @@ You don't have to include this section but interviewers *love* that you can not 
 
 ## Lessons Learned:
 
-This was my first time working with tailwind and daisy ui! This made designing my app a brezze and allowed me to focus on the JavaScript. 
+This was my first time working with tailwind and daisy ui! This made designing my app a breeze and allowed me to focus on the JavaScript. 
 
 <!--## Examples:
 Take a look at these couple examples that I have in my own portfolio:

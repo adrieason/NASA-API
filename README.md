@@ -1,8 +1,9 @@
 # NASA Space App 
 This is an app that allows you to type in a date using the YYYY-MM-DD format, and the background changes to NASA's photo of the day. 
-<!--**Link to project:** http://recruiters-love-seeing-live-demos.com/-->
+**Link to project:** https://nasa-api-a.netlify.app/
 
 <img src="img/Screen Shot 2022-09-27 at 6.51.27 PM.png">
+
 
 ## How It's Made:
 
